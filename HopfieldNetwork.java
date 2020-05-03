@@ -152,7 +152,7 @@ public class HopfieldNetwork {
 			}
 		}
 		
-		// 출력의 경우 outputPattern을 1차원 배열로 입력했기 때문에 5 * 5 배열로 출력을 위해 4번째 출력마다 줄바꿈 시행
+		// 출력의 경우 outputPattern을 1차원 배열로 입력했기 때문에 5 * 5 배열로 출력을 위해 5번째 출력마다 줄바꿈 시행
 		System.out.println();
 		System.out.println("----------------결과 패턴---------------");
 		System.out.println("출력 결과 : ");
